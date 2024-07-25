@@ -7,4 +7,4 @@ jobs:
       - name: Checkout Repo
         uses: actions/checkout@v3
       - name: Run Feed Generator
-        uses: Tibetta/podcast-genrator@main
+        uses: tibetta/podcast-generator@main
